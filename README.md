@@ -5,6 +5,12 @@ This is a walkthrough of my thought process while doing the SQL Murder Mystery c
 
 Link to the challenge: [SQL Murder Mystery](https://mystery.knightlab.com/)
 
+<h2>Table of contents:</h2>
+
+[What you're given](#what-you're-given)
+
+[Walk-through](#walk-through)
+
 <h2>What you're given:</h2>
 <b>Description of the murder:</b>
 
