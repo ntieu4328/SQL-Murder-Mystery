@@ -88,4 +88,4 @@ Link to the challenge: [SQL Murder Mystery](https://mystery.knightlab.com/)
 
 ![Found hirer](https://github.com/ntieu4328/SQL-Murder-Mystery/assets/156137990/991d8dec-af6a-4877-a770-f13a0771d5f9)
 
-<b>You have solved the SQL Murder Mystery!!!</b>
+<b>The SQL Murder Mystery has been solved!!!</b>
